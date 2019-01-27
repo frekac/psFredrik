@@ -1,2 +1,5 @@
 # psFredrik
-Shared code for / from my blog
+
+This repository contain code that I've created for my blog at psfredrik.chiloma.com.
+
+
